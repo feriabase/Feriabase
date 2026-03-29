@@ -1,1 +1,9 @@
-{\n  "name": "Feria Base 3F",\n  "short_name": "3F",\n  "start_url": ".",\n  "display": "standalone",\n  "background_color": "#111",\n  "theme_color": "#111"\n}
+{
+  "name": "Feria Base 3F",
+  "short_name": "3F",
+  "start_url": "/Feriabase/",
+  "scope": "/Feriabase/",
+  "display": "standalone",
+  "background_color": "#111",
+  "theme_color": "#111"
+}
